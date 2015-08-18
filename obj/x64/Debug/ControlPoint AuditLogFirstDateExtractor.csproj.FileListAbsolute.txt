@@ -1,0 +1,8 @@
+C:\ActioNet\ControlPoint AuditLogFirstDateExtractor\bin\x64\Debug\ControlPoint AuditLogFirstDateExtractor.exe
+C:\ActioNet\ControlPoint AuditLogFirstDateExtractor\bin\x64\Debug\ControlPoint AuditLogFirstDateExtractor.pdb
+C:\ActioNet\ControlPoint AuditLogFirstDateExtractor\obj\x64\Debug\ControlPoint_AuditLogFirstDateExtractor.Form1.resources
+C:\ActioNet\ControlPoint AuditLogFirstDateExtractor\obj\x64\Debug\ControlPoint_AuditLogFirstDateExtractor.Properties.Resources.resources
+C:\ActioNet\ControlPoint AuditLogFirstDateExtractor\obj\x64\Debug\ControlPoint AuditLogFirstDateExtractor.csproj.GenerateResource.Cache
+C:\ActioNet\ControlPoint AuditLogFirstDateExtractor\obj\x64\Debug\ControlPoint AuditLogFirstDateExtractor.exe
+C:\ActioNet\ControlPoint AuditLogFirstDateExtractor\obj\x64\Debug\ControlPoint AuditLogFirstDateExtractor.pdb
+C:\ActioNet\ControlPoint AuditLogFirstDateExtractor\obj\x64\Debug\ControlPoint AuditLogFirstDateExtractor.csprojResolveAssemblyReference.cache
